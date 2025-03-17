@@ -7,3 +7,4 @@ flask
 twilio
 python-dotenv
 flask-cors
+flask_sqlalchemy

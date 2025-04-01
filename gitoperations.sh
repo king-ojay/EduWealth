@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ z "$1" = z ]; then
+if [ "$1" == "some_value" ]; then
   echo "Please provide a commit message"
   exit
 fi
